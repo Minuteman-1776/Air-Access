@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1020172078945",
+    "project_id": "siakmhs-2a90b",
+    "storage_bucket": "siakmhs-2a90b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1020172078945:android:f70e9f418565174a60bf20",
+        "android_client_info": {
+          "package_name": "com.example.siakmhs_1001210005_2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWg9G7PoccPhXSVg58GiCV3vM1PzEb-5A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
